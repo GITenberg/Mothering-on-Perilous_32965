@@ -1,0 +1,39 @@
+_repo: Mothering-on-Perilous_32965
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: McMillan, Mary Lane
+    gutenberg_agent_id: '41053'
+    url: http://www.gutenberg.org/2009/agents/41053
+  - agent_name: Gruger, Frederic Rodrigo
+    aliases:
+    - Gruger, Frederic R. (Frederic Rodrigo)
+    - Gruger, F. R. (Frederic Rodrigo)
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '31201'
+    url: http://www.gutenberg.org/2009/agents/31201
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Furman, Lucy S.
+    gutenberg_agent_id: '36131'
+    url: http://www.gutenberg.org/2009/agents/36131
+description: ''
+gutenberg_issued: '2010-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+title: Mothering on Perilous
+url: http://www.gutenberg.org/ebooks/32965
